@@ -1,0 +1,20 @@
+{
+  "dataset": "UAV123",
+  "opencv_threads": 1,
+  "dev": {
+    "bike1": ["bike1", 500],
+    "car1_1": ["car1", 500],
+    "person1": ["person1", 500],
+    "truck1": ["truck1", 463],
+    "uav1_1": ["uav1", 500],
+    "wakeboard1": ["wakeboard1", 421]
+  },
+  "test": {
+    "bike2": ["bike2", 500],
+    "car2": ["car2", 500],
+    "person3": ["person3", 500],
+    "truck2": ["truck2", 385],
+    "uav3": ["uav3", 265],
+    "wakeboard2": ["wakeboard2", 500]
+  }
+}

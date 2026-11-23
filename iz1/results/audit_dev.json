@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "frames": 2884,
+    "sequences": {
+      "bike1": {
+        "frames_sha256": "957abb2fe1708f4bf097134b46e5ffae38c8f280b0901946e0ff826b085d415b",
+        "groundtruth_sha256": "329e531780ea0cf14645ce50ca30a3f954ea28b9dacbdf44cd4ea09275db6aeb"
+      },
+      "car1_1": {
+        "frames_sha256": "e6c52b4f6b40c63fa18c28658c04238a14b88eea152412e287be24a02f886a12",
+        "groundtruth_sha256": "eae1bf3dfc0de9a3a64e9f9fd4e3f0559a2a13918ef6091ae82fe2d6927ab2c9"
+      },
+      "person1": {
+        "frames_sha256": "5858ec865295cb4190b25066dee16592c60ec3c2189d04a798d742d99e2855eb",
+        "groundtruth_sha256": "2ac1c96d68f6c102975e9c542b4f53e657247e6bfe7e1763ea5f465474a08cd1"
+      },
+      "truck1": {
+        "frames_sha256": "5660de53edcb0c96f9b0dfccca45f8f5a15bedff08a603f15b630ef526b8a7aa",
+        "groundtruth_sha256": "e2a75a5fb2c18b947631dbef7aac3993d04f5170f21eb310b67aad8b7a5035db"
+      },
+      "uav1_1": {
+        "frames_sha256": "0c77ebb46ffd73085df566e48b0ed310b07bdd4e2f584cf124b5d164622a56ce",
+        "groundtruth_sha256": "60b767af8b6fb20ac87247b292362f8bf1abc4116ec278bbde439fe0b45fe6e1"
+      },
+      "wakeboard1": {
+        "frames_sha256": "bcb2959b9aedf5091b7b380404f79a9df1c609b23ce7caa2c329ebf581a6a63d",
+        "groundtruth_sha256": "6dffb45492191af440259a39aef6b12ff9b16eee35ba504c4fa8565d50870302"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "max_scale_step": 1.1,
+  "criterion": "Наибольшая доля кадров с IoU ≥ 0,5 на dev, затем AUC и P20",
+  "dev_quality": {
+    "iou_at_least_half": 0.49457472950857523,
+    "auc": 0.4034690255794127,
+    "p20": 0.49916542429574756
+  },
+  "dev_findings": {
+    "baseline": "CSRT",
+    "iou_at_least_half": {
+      "CSRT": 0.5453842132534386,
+      "KCF": 0.16492792880607557,
+      "MOSSE": 0.19304114274183481,
+      "LK": 0.29277711882811847,
+      "STUDENT": 0.49457472950857523
+    },
+    "student_robustness_iou_at_least_half": {
+      "original": 0.49457472950857523,
+      "brightness70": 0.5135388178921932,
+      "size75": 0.4407959228344868
+    }
+  }
+}

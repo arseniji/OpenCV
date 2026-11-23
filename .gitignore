@@ -1,0 +1,6 @@
+/.idea/
+/.iz1-cleanup-backup/
+.venv/
+.venv310/
+__pycache__/
+*.py[cod]
